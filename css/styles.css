@@ -24,7 +24,7 @@ body {
   left: -9999px;
 }
 
-/*.switch {
+.switch {
   position: relative;
   display: block;
   width: 30px;
@@ -39,7 +39,7 @@ body {
   background: -webkit-linear-gradient(top, rgba(233, 228, 224, 1) 0%, rgba(233, 228, 224, 1) 67%, rgba(249, 244, 240, 1) 75%, rgba(239, 239, 239, 1) 100%);
 }
 
-.switch:before {
+/*.switch:before {
   display: block;
   content: "";
   z-index: -1;
