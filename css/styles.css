@@ -39,7 +39,7 @@ body {
   background: -webkit-linear-gradient(top, rgba(233, 228, 224, 1) 0%, rgba(233, 228, 224, 1) 67%, rgba(249, 244, 240, 1) 75%, rgba(239, 239, 239, 1) 100%);
 }
 
-/*.switch:before {
+.switch:before {
   display: block;
   content: "";
   z-index: -1;
@@ -55,7 +55,7 @@ body {
   background: -webkit-linear-gradient(top, rgba(144, 136, 123, 1) 0%, rgba(144, 136, 123, 1) 21%, rgba(154, 147, 131, 1) 29%, rgba(204, 193, 171, 1) 50%, rgba(213, 203, 178, 1) 55%, rgba(221, 211, 184, 1) 61%, rgba(221, 211, 184, 1) 100%);
 }
 
-.switch:after {
+/*.switch:after {
   content: "ON";
   position: absolute;
   top: -40px;
