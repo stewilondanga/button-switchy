@@ -158,7 +158,7 @@ i:nth-child(14), i:nth-child(15), i:nth-child(16), i:nth-child(17) {
   color: #04d;
 }
 
-/*.cal td {
+.cal td {
   padding: 0 2px;
   line-height: 100%;
 }
