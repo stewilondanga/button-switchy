@@ -4,15 +4,13 @@ body {
   background: -webkit-linear-gradient(top, rgba(241, 236, 232, 1) 0%, rgba(237, 234, 229, 1) 23%, rgba(234, 229, 225, 1) 35%, rgba(234, 229, 225, 1) 47%, rgba(227, 220, 214, 1) 100%);
 }
 
-/*
-
 .my_social {
   position: absolute;
   top: 25px;
   left: 25px;
 }
 
-.my_social a {
+/*.my_social a {
   display: inline-block;
   height: 2.5em;
 }
