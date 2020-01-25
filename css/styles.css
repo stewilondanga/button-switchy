@@ -66,7 +66,7 @@ body {
   font-size: 14px;
 }
 
-/*.switch .bg {
+.switch .bg {
   display: block;
   position: absolute;
   top: 0;
@@ -78,7 +78,7 @@ body {
   background: #daaa18;
 }
 
-i {
+/*i {
   float: left;
   width: 3px;
   height: 3px;
