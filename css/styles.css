@@ -1,3 +1,9 @@
+body {
+  background: rgb(241, 236, 232);
+  background: -moz-linear-gradient(top, rgba(241, 236, 232, 1) 0%, rgba(237, 234, 229, 1) 23%, rgba(234, 229, 225, 1) 35%, rgba(234, 229, 225, 1) 47%, rgba(227, 220, 214, 1) 100%);
+  background: -webkit-linear-gradient(top, rgba(241, 236, 232, 1) 0%, rgba(237, 234, 229, 1) 23%, rgba(234, 229, 225, 1) 35%, rgba(234, 229, 225, 1) 47%, rgba(227, 220, 214, 1) 100%);
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -21,11 +27,6 @@
   height: 1.5em;
 }
 
-body {
-  background: rgb(241, 236, 232);
-  background: -moz-linear-gradient(top, rgba(241, 236, 232, 1) 0%, rgba(237, 234, 229, 1) 23%, rgba(234, 229, 225, 1) 35%, rgba(234, 229, 225, 1) 47%, rgba(227, 220, 214, 1) 100%);
-  background: -webkit-linear-gradient(top, rgba(241, 236, 232, 1) 0%, rgba(237, 234, 229, 1) 23%, rgba(234, 229, 225, 1) 35%, rgba(234, 229, 225, 1) 47%, rgba(227, 220, 214, 1) 100%);
-}
 
 #switch {
   position: absolute;
