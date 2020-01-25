@@ -134,7 +134,7 @@ i:nth-child(14), i:nth-child(15), i:nth-child(16), i:nth-child(17) {
   transition: all 0.2s linear;
 }
 
-/*.cal:hover {
+.cal:hover {
   transform: scale(2.5);
   transition: all 0.4s linear;
 }
@@ -145,7 +145,7 @@ i:nth-child(14), i:nth-child(15), i:nth-child(16), i:nth-child(17) {
   font-size: 15px;
 }
 
-.cal th {
+/*.cal th {
   color: #aaa;
   line-height: 200%;
 }
