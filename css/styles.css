@@ -19,12 +19,12 @@ body {
   height: 1.5em;
 }
 
-/*#switch {
+#switch {
   position: absolute;
   left: -9999px;
 }
 
-.switch {
+/*.switch {
   position: relative;
   display: block;
   width: 30px;
