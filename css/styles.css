@@ -78,7 +78,7 @@ body {
   background: #daaa18;
 }
 
-/*i {
+i {
   float: left;
   width: 3px;
   height: 3px;
@@ -88,7 +88,7 @@ body {
   margin: 2px 1px 2px 3px;
 }
 
-i:nth-child(14), i:nth-child(15), i:nth-child(16), i:nth-child(17) {
+/*i:nth-child(14), i:nth-child(15), i:nth-child(16), i:nth-child(17) {
   height: 1px;
 }
 
